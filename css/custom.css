@@ -1,0 +1,78 @@
+.background{
+    background: url("../img/background.jpg");
+}
+
+.navbar-transparent{
+    background: none;
+    border: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.navbar-active{
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border: none;
+}
+
+.navbar-brand_logo-img{
+    position: absolute;
+}
+
+.navbar-brand_title{
+    font-size: 34px;
+    line-height: 20px;
+    padding-left: 27px;
+    margin-bottom: 7px;
+    color: #231f20;
+}
+
+.navbar-brand_title2{
+    font-size: 10px;
+    padding-left: 31px;
+    margin-top: 7px;
+    letter-spacing: 1.7px;
+    color: #858689;
+}
+
+.text-call{
+    font-size: 12px;
+    padding-top: 20px;
+    margin: 0;
+}
+
+.text-number{
+    font-size: 20px;
+    margin: 0;
+}
+
+.navbar-elem{
+    font-size: 13px;
+}
+
+.navbar-elem:hover{
+    color: #8ac589;
+}
+
+.menu{
+    border-radius: 10px;
+}
+
+.menu-elem{
+    padding: 0px 22px;
+    margin: 0;
+    font-size: 15px;
+}
+
+.menu-elem:hover{
+    text-shadow: 0px 0px 0px rgba(0, 92, 19, 0.63);
+    color: #9acfea;
+    transition: 0.2s;
+}
+
+.page-name{
+    padding-top: 10px;
+    padding-left: 30px;
+    font-size: 12px;
+    line-height: 20px;
+}

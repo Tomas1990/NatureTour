@@ -1,0 +1,74 @@
+.text-green{
+    color: #209a28;
+}
+
+.text-white{
+    color: #fff;
+}
+
+.text-gray{
+    color: #3a3731;
+}
+
+.klavika-font{
+    font-family: Klavika-Medium-Plain;
+}
+
+.myriadreg-font{
+    font-family: Myriad-Pro-Regular;
+}
+
+.myriadsem-font{
+    font-family: Myriad-Pro-Semibold;
+}
+
+.zurichrom-font{
+    font-family: Zurich-BT-RomanCondensed;
+}
+
+.zurichbold-font{
+    font-family: Zurich-BT-BoldCondensed;
+}
+
+.arialreg-font{
+    font-family: ArialRegular;
+}
+
+.arialbold-font{
+    font-family: ArialBold;
+}
+
+.arialital-font{
+    font-family: ArialItalic;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.text-shadow{
+    text-shadow: 0px -2px 0px rgba(0, 92, 19, 0.63);
+}
+
+.gradient{
+    background: rgba(101,193,62,1);
+    background: -moz-linear-gradient(top, rgba(101,193,62,1) 0%, rgba(12,147,48,1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(101,193,62,1)), color-stop(100%, rgba(12,147,48,1)));
+    background: -webkit-linear-gradient(top, rgba(101,193,62,1) 0%, rgba(12,147,48,1) 100%);
+    background: -o-linear-gradient(top, rgba(101,193,62,1) 0%, rgba(12,147,48,1) 100%);
+    background: -ms-linear-gradient(top, rgba(101,193,62,1) 0%, rgba(12,147,48,1) 100%);
+    background: linear-gradient(to bottom, rgba(101,193,62,1) 0%, rgba(12,147,48,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#65c13e', endColorstr='#0c9330', GradientType=0 );
+    -webkit-box-shadow: inset 0px 0px 1px 1px rgba(0,0,0,0.7);
+    -moz-box-shadow: inset 0px 0px 1px 1px rgba(0,0,0,0.7);
+    box-shadow: inset 0px 0px 1px 1px rgba(0,0,0,0.7);
+}
+
+.search-button, .sign-up-button{
+    border: 1px solid rgb(12, 147, 47);
+    border-radius: 5px;
+    background-image: -moz-linear-gradient( 90deg, rgb(15,148,26) 0%, rgb(102,193,62) 100%);
+    background-image: -webkit-linear-gradient( 90deg, rgb(15,148,26) 0%, rgb(102,193,62) 100%);
+    background-image: -ms-linear-gradient( 90deg, rgb(15,148,26) 0%, rgb(102,193,62) 100%);
+    box-shadow: 0 0 0 3px rgba(216, 213, 204, 0.004),inset 2.046px 2.194px 0 0 rgba(129, 222, 65, 0.004);
+}

@@ -1,0 +1,54 @@
+@font-face {
+    font-family: Klavika-Medium-Plain;
+    src: url(klavikamediumplain.otf);
+}
+
+@font-face {
+    font-family: Myriad-Pro-Regular;
+    src: url(myriadpro-regular.otf);
+}
+
+@font-face {
+    font-family: Myriad-Pro-Semibold;
+    src: url(myriadpro-semibold.otf);
+}
+
+@font-face {
+    font-family: Zurich-BT-BoldCondensed;
+    src: url(zurichbtboldcondensed.ttf);
+}
+
+@font-face {
+    font-family: Zurich-BT-RomanCondensed;
+    src: url(zurichbtromancondensed.ttf);
+}
+
+@font-face {
+    font-family: ArialBold;
+    src: url(ArialBold/ArialBold.eot);
+    src: url(ArialBold/ArialBold.ttf);
+    src: url(ArialBold/ArialBold.woff);
+}
+
+@font-face {
+    font-family: ArialItalic;
+    src: url(ArialItalic/ArialItalic.eot);
+    src: url(ArialItalic/ArialItalic.ttf);
+    src: url(ArialItalic/ArialItalic.woff);
+}
+
+@font-face {
+    font-family: ArialRegular;
+    src: url(ArialRegular/ArialRegular.eot);
+    src: url(ArialRegular/ArialRegular.ttf);
+    src: url(ArialRegular/ArialRegular.woff);
+}
+
+@font-face {
+    font-family: "Glyphicons";
+    src: url(Glyphicons/glyphicons-halflings-regular.svg);
+    src: url(Glyphicons/glyphicons-halflings-regular.eot);
+    src: url(Glyphicons/glyphicons-halflings-regular.ttf);
+    src: url(Glyphicons/glyphicons-halflings-regular.woff);
+    src: url(Glyphicons/glyphicons-halflings-regular.woff2);
+}
